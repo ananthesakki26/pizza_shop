@@ -1,0 +1,120 @@
+/* NAVBAR SECTION */
+
+.heading{
+    margin-left: 20px;
+    font-weight: bold;
+    font-family: cursive;
+    font-size: 25px;
+    color: lightseagreen;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+.heading-links{
+    margin-left: 50%;
+    gap: 20px;
+}
+
+.heading-icon{
+    margin-top: 5px;
+    font-size: 20px;
+}
+
+.nav-bg{
+    background-color: rgb(242, 239, 239);
+    height: 60px;
+}
+.pic-all{
+    height: 500px;
+    width: 80%;
+    margin-left: 10%;
+}
+
+.pizza-caption{
+    font-family: cursive;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+hr{
+    margin-top: 30px ;
+}
+
+.first-footer{
+    text-align: center;
+    color: lightseagreen;
+}
+
+/* MENU SECTION */
+
+.menu-headings{
+    text-align: center;
+    margin-top: 50px;
+    color: lightseagreen;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+}
+
+.card-heading{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: bold;
+}
+.card-text{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+/* .card-flex{
+    display: flex;
+    margin-left: 20px;
+} */
+/* 
+ORDER SECTON */
+
+.para-h6{
+    margin-top: 20px;
+}
+.order-paraMargine{
+    margin-left: 20px;
+}
+
+.badge{
+    margin-left: 96%;
+}
+
+/* COMMENTS SECTION */
+
+.comments-gap{
+    margin-top: 30px;
+}
+
+.comment-h1 {
+    margin-top: 50px;
+    text-align: center;
+}
+
+.comment-control{
+    margin-top: 20px;
+    width: 400px;
+    margin-left: 35%;
+    height: 60px;
+}
+.comment-controls{
+    margin-top: 20px;
+    width: 400px;
+    margin-left: 35%;
+    height: 100px;
+}
+
+.comment-btn{
+    margin-left: 48%;
+    margin-top: 30px;
+}
+
+/* Cart Section */
+
+.button{
+    margin-left: 250px;
+}
