@@ -29,7 +29,7 @@ export default function Home() {
 
     const showAlert = () => {
     alert("Your Order Will Ready Now!" );
-    setHead(false)
+    setCome(false)
   };
 
   return (

@@ -45,7 +45,7 @@ const[head,setHead]=useState(false);
           <div className='d-flex' >
               <Form.Control key={index} type='text' value={value} className='comment-control  bg-success  text-black p-3' 
               />
-              <i onClick={handleClose} className="bi bi-x" style={{fontSize:'20px',marginLeft:'-25px',marginTop:'20px'}}></i>
+              <i onClick={handleClose} className="bi bi-x" style={{fontSize:'20px',marginLeft:'-25px',marginTop:'20px',hover:"cursor"}}></i>
            </div>
           ))}
         <Form className='comments-gap'> 
